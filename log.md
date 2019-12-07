@@ -16,6 +16,14 @@
 
 **Link to work:** n/a
 
+## Day 2: December 6, 2019
+
+**Today's Progress**: Practiced by creating a simple WPF app using MVVM to create a movie database. Doesn't do much more than add movies at the moment, but it was good practice to remember all the steps to add the view, model, viewmodel, commands, and bindings.
+
+**Thoughts**: I did peek a few times at the source material, though, so I'll probably have to do this again until I can do it without looking.
+
+**Link to work**: n/a
+
 <!--
 
 ### Day 1: June 27, Monday
