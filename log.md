@@ -24,6 +24,14 @@
 
 **Link to work**: n/a
 
+## Day 2.1: December 7, 2019
+
+**Today's Progress**: Spent most of my time following a course. We're doing an Evernote clone. Still a few more modules to go before that's complete. Also tried out CodeWars for the first time.
+
+**Thoughts**: Since this was mostly a training day, I can't count this as a new day. CodeWars seems like it could be something fun to do. Hoping to finish the Evernote clone lesson tomorrow and start practicing making a few things.
+
+**Link to work**: n/a
+
 <!--
 
 ### Day 1: June 27, Monday
