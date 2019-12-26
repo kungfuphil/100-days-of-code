@@ -32,6 +32,14 @@
 
 **Link to work**: n/a
 
+## Day 3: December 26, 2019
+
+**Today's Progress**: After several days of only coding at work and holiday-related things, I was finally able to put in an hour of coding outside of my normal work duties. Made a very small WPF app, trying to use MVVM principles, that counts my emails and deletes specific groups of ones that I don't need to read.
+
+**Thoughts**: I'm not fully convinced this course that I was taking is going to be my best MVVM resource, but it did help me with the basics. I'm probably going to have to look for something else to supplement my understanding.
+
+**Link to work**: n/a
+
 <!--
 
 ### Day 1: June 27, Monday
