@@ -40,6 +40,14 @@
 
 **Link to work**: n/a
 
+## Day 4: December 30, 2019
+
+**Today's Progress**: Found a helpful Youtube video series on WPF and MVVM. Followed along and then updated my email tools app to use the Relay Command I just learned about. I was able to cut out several classes by using that. Also using the ObservableObject class reduced the amount of code I have to write as well.
+
+**Thoughts**: Slow and steady wins the race, I guess. I was hoping to find one source of truth for this, but it seems like I will have to cobble together something from all the different bits I'm learning. This last video that I followed along with didn't tell me how to use the RelayCommand with a method that doesn't take parameters. Looking online it seems there's a way to do it with a DelegateCommand using PRISM. I'm going to have to look into that.
+
+**Links:** [C# WPF - Relay/Delegate Commands [Part 2]](https://youtu.be/8WfD2cFRymM)
+
 <!--
 
 ### Day 1: June 27, Monday
