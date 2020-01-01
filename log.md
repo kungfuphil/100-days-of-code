@@ -46,7 +46,15 @@
 
 **Thoughts**: Slow and steady wins the race, I guess. I was hoping to find one source of truth for this, but it seems like I will have to cobble together something from all the different bits I'm learning. This last video that I followed along with didn't tell me how to use the RelayCommand with a method that doesn't take parameters. Looking online it seems there's a way to do it with a DelegateCommand using PRISM. I'm going to have to look into that.
 
-**Links:** [C# WPF - Relay/Delegate Commands [Part 2]](https://youtu.be/8WfD2cFRymM)
+**Links**: [C# WPF - Relay/Delegate Commands [Part 2]](https://youtu.be/8WfD2cFRymM)
+
+## Day 5: December 31, 2019
+
+**Today's Progress**: Spent a good long while putting into practice all the things I learned about MVVM and WPF. Thank goodness I found those Youtube videos by Tosker. There were a great help. Things are starting to make a lot more sense now. Happy New Year everyone.
+
+**Thoughts**: There are still things I need to learn, but I'm making pretty good progress.
+
+**Links**: [Tosker's Corner (Youtube)](https://www.youtube.com/channel/UCXZWxO7EUC0ZSoeZIR2V9UQ/videos)
 
 <!--
 
