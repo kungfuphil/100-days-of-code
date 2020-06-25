@@ -56,6 +56,14 @@
 
 **Links**: [Tosker's Corner (Youtube)](https://www.youtube.com/channel/UCXZWxO7EUC0ZSoeZIR2V9UQ/videos)
 
+## Day 6: June 25, 2020
+
+**Today's Progress**: Started the edX course Introduction to Functional Programming and finished chapter 2. There was a long gap between day 5 and 6 while I tried to make use of MVVM and WPF at work.
+
+**Thoughts**: Functional programming feel different than object-oriented. I'm hoping that this will help me become a better developer. Although this course is mostly in Haskell, the ideas are supposed to be able to translate in many different languages.
+
+**Links**: [Introduction to Functional Programming](https://courses.edx.org/courses/course-v1:DelftX+FP101x+3T2015/course/)
+
 <!--
 
 ### Day 1: June 27, Monday
