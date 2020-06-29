@@ -11,3 +11,4 @@
 ## Courses
 
 * [Introduction to Functional Programming](https://courses.edx.org/courses/course-v1:DelftX+FP101x+3T2015/course/)
+* [The Complete Node.js Developer Course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)

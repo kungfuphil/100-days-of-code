@@ -64,6 +64,14 @@
 
 **Links**: [Introduction to Functional Programming](https://courses.edx.org/courses/course-v1:DelftX+FP101x+3T2015/course/)
 
+## Day 7: June 29, 2020
+
+**Today's Progress**: Continued a Node.js course that I never got around to finishing. I had to move back several lessons, but it's also helping me remember everything. Instead of trying to go through the whole course without stopping, I'm going to try to implement something similar after every major project to try and cement the lessons.
+
+**Thoughts**: This seems to use a lot of functional programming with all the asynchronous calls and whatnot. I don't use this very much at the moment, but I can think of a few ways to incorporate it into my work.
+
+**Links**: [The Complete Node.js Developer Course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
+
 <!--
 
 ### Day 1: June 27, Monday
