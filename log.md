@@ -72,6 +72,13 @@
 
 **Links**: [The Complete Node.js Developer Course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
 
+### Day 8: June 30, 2020
+
+**Today's Progress**: Finished the weather app from [The Complete Node.js Developer Course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/). I researched additional information on how to hide API keys so that I wouldn't have them made available publicly. Next I'm working on using a different weather API to check the hourly weather (as far as I can go on the free plan) to see if the weather is good to go to the beach. Right now I'm just trying to get the logic working, but right now I'm not sure if I will try to implement this as a web page on Heroku or if I will be ambitious and deploy it to my Alexa.
+
+**Thoughts**: Configuration can be a little complicated sometimes.
+
+**Links**: [Weather App](https://kfp-weather-application.herokuapp.com/)
 <!--
 
 ### Day 1: June 27, Monday
