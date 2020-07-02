@@ -79,6 +79,15 @@
 **Thoughts**: Configuration can be a little complicated sometimes.
 
 **Links**: [Weather App](https://kfp-weather-application.herokuapp.com/)
+
+### Day 9: July 1, 2020
+
+**Today's Progress**: Worked on logic to check for "beach weather". Basically, I'm checking to see if it rains and what the temperature is during the time I might go to the beach. Right now all it does is use the OpenWeatherMapApi to check the hourly weather for the beach times (8am - 8pm) for the next 24 hours that the free version of the API gives me access to. I think I might integrate that logic into the weather app from the Node.js course.
+
+**Thoughts**: Doing that Haskell course helped solidify some of these functional programming concepts I've com across with Javascript. I'm going to want to finish that sometime.
+
+**Links**: n/a
+
 <!--
 
 ### Day 1: June 27, Monday
