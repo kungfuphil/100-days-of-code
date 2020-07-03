@@ -88,6 +88,14 @@
 
 **Links**: n/a
 
+### Day 10: July 2, 2020
+
+**Today's Progress**: Spent all my code time going through the Node.js course.
+
+**Thoughts**: A lot of new concepts condensed in the lessons I've been doing. I'm definitely going to need to go over these concepts a few times to solidify the lessons.
+
+**Links**: n/a
+
 <!--
 
 ### Day 1: June 27, Monday
