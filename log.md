@@ -96,6 +96,14 @@
 
 **Links**: n/a
 
+### Day 11: August 31, 2020
+
+**Today's Progress**: I've been doing the Node.js course on the Odin project for a few days now. I've been working on the Inventory Application. Might not finish it today.
+
+**Thoughts**: Doing a project after the MDN tutorial really helps solidify the concepts.
+
+**Links**: [The Odin Project: Inventory Application](https://www.theodinproject.com/courses/nodejs/lessons/inventory-application)
+
 <!--
 
 ### Day 1: June 27, Monday
