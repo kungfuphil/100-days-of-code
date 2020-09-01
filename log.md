@@ -104,6 +104,14 @@
 
 **Links**: [The Odin Project: Inventory Application](https://www.theodinproject.com/courses/nodejs/lessons/inventory-application)
 
+### Day 12: September 1, 2020
+
+**Today's Progress**: Still working on the same inventory application from yesterday.
+
+**Thoughts**: Some days you just need more motivation than others. This is one of those days for me.
+
+**Links**: n/a
+
 <!--
 
 ### Day 1: June 27, Monday
