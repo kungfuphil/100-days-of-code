@@ -118,6 +118,15 @@ Almost done with that inventory application project. Just try need some time to 
 
 **Links**: n/a
 
+### Day 14: September 8, 2020
+
+Finally got some time to take configure the inventory app project to push to GitHub and Heroku.
+
+**Links**:
+
+* [GitHub Source Code](https://github.com/kungfuphil/guitar-shop)
+* [View Project](https://nameless-earth-13320.herokuapp.com/catalog)
+
 <!--
 
 ### Day 1: June 27, Monday
