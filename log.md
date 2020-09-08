@@ -112,6 +112,12 @@
 
 **Links**: n/a
 
+### Day 13: September 4, 2020
+
+Almost done with that inventory application project. Just try need some time to set everything up to be able to push to GitHub and Heroku.
+
+**Links**: n/a
+
 <!--
 
 ### Day 1: June 27, Monday
