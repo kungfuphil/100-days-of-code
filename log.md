@@ -127,6 +127,14 @@ Finally got some time to take configure the inventory app project to push to Git
 * [GitHub Source Code](https://github.com/kungfuphil/guitar-shop)
 * [View Project](https://nameless-earth-13320.herokuapp.com/catalog)
 
+### Day 15: September 11, 2020
+
+Got some time to work on the project called "Members Only" from the Odin Project. This one involves authentication and everything else I've learned so far for with Node.js and Javascript.
+
+**Links**:
+
+* [Project: Member's Only](https://www.theodinproject.com/courses/nodejs/lessons/members-only)
+
 <!--
 
 ### Day 1: June 27, Monday
