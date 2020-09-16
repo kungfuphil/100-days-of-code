@@ -135,6 +135,10 @@ Got some time to work on the project called "Members Only" from the Odin Project
 
 * [Project: Member's Only](https://www.theodinproject.com/courses/nodejs/lessons/members-only)
 
+### Day 16: September 16, 2020
+
+Found some more time to work on the "Members Only" project. Added the Mongoose schemas and worked on the sign up form.
+
 <!--
 
 ### Day 1: June 27, Monday
