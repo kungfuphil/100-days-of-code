@@ -139,6 +139,10 @@ Got some time to work on the project called "Members Only" from the Odin Project
 
 Found some more time to work on the "Members Only" project. Added the Mongoose schemas and worked on the sign up form.
 
+### Day 17: September 17, 2020
+
+Today was extra difficult. I'm trying to figure out how to use Passportjs and bcryptjs to create a login, but something's not quite working right.
+
 <!--
 
 ### Day 1: June 27, Monday
