@@ -143,6 +143,15 @@ Found some more time to work on the "Members Only" project. Added the Mongoose s
 
 Today was extra difficult. I'm trying to figure out how to use Passportjs and bcryptjs to create a login, but something's not quite working right.
 
+### Day 18: November 20, 2020
+
+Spent what felt like a billion years trying to figure out how to add custom roles to a .Net Core Web API using Windows Authentication. Ended up going the simple route of using claims and policies.
+
+**Links**:
+
+* [ASP.NET Core - Authorization Using Windows Authentication
+](https://stackoverflow.com/questions/53524466/asp-net-core-authorization-using-windows-authentication)
+
 <!--
 
 ### Day 1: June 27, Monday
